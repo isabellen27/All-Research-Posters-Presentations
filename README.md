@@ -6,7 +6,7 @@ Welcome to my research repository! This repository serves as a centralized archi
 
 Below is a list of the research materials currently available in this repository. Click on any file name to view the PDF.
 
-| Year | Event / Topic | File | Awards |
+| Year | Conference | File | Awards |
 | :--- | :--- | :--- | :--- |
 | **2026** | **American Astronomical Society  – 57th Solar Physics Division Meeting** | [`2026 SPD AAS - Isabelle Niu.pdf`](2026%20SPD%20AAS%20-%20Isabelle%20Niu.pdf) | Oral presentor |
 | **2026** | **16th IEEE Integrated STEM Education Conference Presentation** | [`ICMLA Presentation - #541 Isabelle Niu.pdf`](ICMLA%20Presentation%20-%20%23541%20Isabelle%20Niu.pdf) | Full paper track and oral presentor |
