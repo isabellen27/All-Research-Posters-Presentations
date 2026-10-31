@@ -8,7 +8,7 @@ Below is a list of the research materials currently available in this repository
 
 | Year | Event / Topic | File | Awards |
 | :--- | :--- | :--- | :--- |
-| **2026** | **57th American Astronomical Society – Solar Physics Division (SPD)** | [`2026 SPD AAS - Isabelle Niu.pdf`](2026%20SPD%20AAS%20-%20Isabelle%20Niu.pdf) | Oral presentor |
+| **2026** | **American Astronomical Society  – 57th Solar Physics Division Meeting** | [`2026 SPD AAS - Isabelle Niu.pdf`](2026%20SPD%20AAS%20-%20Isabelle%20Niu.pdf) | Oral presentor |
 | **2026** | **16th IEEE Integrated STEM Education Conference Presentation** | [`ICMLA Presentation - #541 Isabelle Niu.pdf`](ICMLA%20Presentation%20-%20%23541%20Isabelle%20Niu.pdf) | Full paper track and oral presentor |
 | **2026** | **Synopsys** | [`Synopsys Poster 2026 .pdf`](Synopsys%20Poster%202026%20.pdf) | 2nd Award Synopsys Science and Technology Championship and special award & McCalmont Engineering Renewable Energy Award|
 | **2026** | **SSP** | [`ssp poster.pdf`](ssp%20poster.pdf) |  Research Team Presentation |
